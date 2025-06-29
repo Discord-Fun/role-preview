@@ -49,7 +49,7 @@ export function App() {
       <div className="footer">
         <div className="footer-content">
           <p>
-            <a href="https://github.com/N3aar/role-preview-for-discord">The source code is available on GitHub</a>
+            <a href="https://github.com/Discord-Fun/role-preview">The source code is available on GitHub</a>
           </p>
         </div>
       </div>
