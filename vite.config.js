@@ -3,7 +3,7 @@ import { resolve } from "path";
 import react from "@vitejs/plugin-react";
 
 export default defineConfig({
-  base: "/role-preview-for-discord/",
+  base: "/role-preview/",
   plugins: [react()],
   resolve: {
     alias: {
